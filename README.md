@@ -1,6 +1,8 @@
-# Lab 4 - *Name of App Here*
+# Lab 4 - *Chat Client*
 
-**Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
+https://courses.codepath.com/courses/ios_university/unit/5#!exercises
+
+**Chat Client** is a Chat app using a [Firebase](https://firebase.google.com/) backend.
 
 Time spent: **X** hours spent in total
 
